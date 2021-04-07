@@ -1,0 +1,2 @@
+# gitclass
+Teaching GIT
